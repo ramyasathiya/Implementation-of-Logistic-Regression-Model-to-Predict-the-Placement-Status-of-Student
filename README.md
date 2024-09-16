@@ -24,8 +24,9 @@ RegisterNumber:  212222040130
 import pandas as pd
 data = pd.read_csv('/content/Placement_Data.csv')
 data.head()
-```
-![image](https://github.com/user-attachments/assets/47fb9a8a-ba12-4f31-8ea0-94f0700f76d2)
+```![ex5ml1 1](https://github.com/user-attachments/assets/126cc293-d2df-4e2d-886b-e817fd250413)
+
+
 ```
 data1 = data.copy()
 data1 = data1.drop(["sl_no","salary"],axis = 1)
