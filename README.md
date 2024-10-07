@@ -30,7 +30,6 @@ data1 = data1.drop(["sl_no","salary"],axis = 1)
 data1.head()
 data1.isnull().sum()
 data1.duplicated().sum()
-```
 from sklearn.preprocessing import LabelEncoder
 le = LabelEncoder()
 data1['gender'] = le.fit_transform(data1['gender'])
