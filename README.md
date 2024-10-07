@@ -58,6 +58,7 @@ accuracy
 from sklearn.metrics import confusion_matrix
 confusion = (y_test, y_pred)
 confusion
+```
 
 
 ## Output:
