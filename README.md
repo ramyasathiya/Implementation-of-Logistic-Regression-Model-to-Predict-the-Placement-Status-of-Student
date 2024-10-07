@@ -8,10 +8,12 @@ To write a program to implement the the Logistic Regression Model to Predict the
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+```
+Get the data and use label encoder to change all the values to numeric.
+Drop the unwanted values,Check for NULL values, Duplicate values.
+Classify the training data and the test data. 
+Calculate the accuracy score, confusion matrix and classification report.
+```
 
 ## Program:
 ```
@@ -103,6 +105,16 @@ confusion
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/8d539355-17f5-4585-b341-c6ec13e35fe7)
+![image](https://github.com/user-attachments/assets/fb629818-288c-4c7e-8e43-f868d64d5e20)
+![image](https://github.com/user-attachments/assets/21b90e58-3e9f-459c-86a3-265456ca34e3)
+![image](https://github.com/user-attachments/assets/a0e79d9d-fb22-4989-80f7-c3e1cffe2eb3)
+![image](https://github.com/user-attachments/assets/74b77b08-29f2-4844-ac16-427ccbaf5e22)
+![image](https://github.com/user-attachments/assets/2adaab86-81bb-41c1-8cd8-e9b824b53e31)
+
+
+
+
+
 
 
 
