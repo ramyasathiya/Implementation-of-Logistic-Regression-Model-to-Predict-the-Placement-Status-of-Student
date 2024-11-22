@@ -22,7 +22,6 @@ To write a program to implement the the Logistic Regression Model to Predict the
 /*
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
 Developed by: RAMYA S
-
 RegisterNumber:  212222040130
 
 import pandas as pd
@@ -75,6 +74,7 @@ print("\nClassification Report:\n",cr)
 # CONFUSION MATRIX
 
 ![image](https://github.com/user-attachments/assets/f910dd69-64e1-4b3e-970b-dde6b1057178)
+# CLASSIFICATION REPORT
 
 ![image](https://github.com/user-attachments/assets/c34da8ef-1bb0-468d-b164-0d57bd7aaf06)
 
